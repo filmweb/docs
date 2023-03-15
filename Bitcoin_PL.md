@@ -12,6 +12,7 @@ Wartość Bitcoina może być zmienna i jest determinowana przez podaż i popyt 
 
 Aby jeszcze bardziej zgłębić temat, warto poczytać:
 - [Bitcoin prosty jak raz, dwa, trzy](https://jesterhodl.com/bitcoin-prosty-jak-raz-dwa-trzy/)
+- [Wielce pokojowa rewolucja](https://archiwumbitcoina.pl/wielce-pokojowa-rewolucja-nic-carter/)
 
 # Dlaczego warto przyjmować płatnośc w Bitcoin?
 
@@ -84,8 +85,12 @@ Cold wallet, czyli zimny portfel, to sposób przechowywania kryptowaluty, w któ
 
 **Pamiętaj zawsze żeby sie stosować do zalecany metody backup'owanie swoje kluczy prywatny.**
 
+# A czemu nie przyjmujecie kryptowaluta X?
 
-# Czy dużo energii zużywane przez Bitcoin stanowi problem dla środowiska?
+# Czy energia zużywane przez Bitcoin stanowi problem dla środowiska?
+
+czytaj:
+- https://archiwumbitcoina.pl/ostatnie-slowo-na-temat-bitcoinowego-poboru-energii-elektrycznej/
 
 # Zagadnienie bardziej zaawansowane
 ## Kluczy prywatny
