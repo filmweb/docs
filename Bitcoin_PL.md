@@ -13,6 +13,8 @@ Wartość Bitcoina może być zmienna i jest determinowana przez podaż i popyt 
 Aby jeszcze bardziej zgłębić temat, warto poczytać:
 - [Bitcoin prosty jak raz, dwa, trzy](https://jesterhodl.com/bitcoin-prosty-jak-raz-dwa-trzy/)
 - [Wielce pokojowa rewolucja](https://archiwumbitcoina.pl/wielce-pokojowa-rewolucja-nic-carter/)
+- [Co to jest Bitcoin](https://bitcoin.pl/co-to-jest-bitcoin/)
+- [Manifest Satoshi Nakamoto](https://bitcoin.pl/manifest-satoshi-nakamoto)
 
 # Dlaczego warto przyjmować płatnośc w Bitcoin?
 
