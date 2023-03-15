@@ -75,7 +75,7 @@ Na początku, dla niewielkich kwot, w zupełności wystarczające i najwygodniej
 
 Dla większych kwot ważne jest, aby zastosować odpowiednie środki bezpieczeństwa, aby uniknąć utraty środków. Kluczowym pojęciem w tym kontekście jest *COLD wallet* - zimny portfel:
 
-Cold wallet, czyli zimny portfel, to sposób przechowywania kryptowaluty, w którym klucze prywatne są przechowywane offline, np. na specjalnym urządzeniu sprzętowym lub kartce papieru. Używanie zimnego portfela do przechowywania Bitcoinów jest ważne z kilku powodów:
+Zimny portfel, to sposób przechowywania kryptowaluty, w którym klucze prywatne są przechowywane offline, np. na specjalnym urządzeniu sprzętowym lub kartce papieru. Używanie zimnego portfela do przechowywania Bitcoinów jest ważne z kilku powodów:
 
  - Bezpieczeństwo: Główną zaletą zimnego portfela jest to, że klucze prywatne są przechowywane offline, co sprawia, że są one trudniejsze do zdobycia przez hakerów. W przeciwnym razie, jeśli przechowujesz swoje Bitcoiny na giełdzie czy w gorącym portfelu (hot wallet) online, istnieje ryzyko, że hakerzy mogą włamać się na Twoje konto i ukraść Twoje środki.
 
