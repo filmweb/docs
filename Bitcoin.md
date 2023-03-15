@@ -77,9 +77,9 @@ Na początku, dla niewielkich kwot, w zupełności wystarczające i najwygodniej
 **Obecnie zalecany przez nas portfel dla początkujących użytkowników Bitcoin to [Muun](https://muun.com/), [Breez](https://breez.technology/) oraz [Phoenix](https://phoenix.acinq.co/).**
 
 
-## Jak bezpiecznie trzymać większy kwoty?
+## Jak bezpiecznie przechowywać większe kwoty?
 
-Dla większy kwoty, ważne dla bezpieczynstwa nie utraty środki stanie pojęcia *COLD wallet* - zimny portfel:
+Dla większych kwot ważne jest, aby zastosować odpowiednie środki bezpieczeństwa, aby uniknąć utraty środków. Kluczowym pojęciem w tym kontekście jest *COLD wallet* - zimny portfel:
 
 > Cold wallet, czyli zimny portfel, to sposób przechowywania kryptowaluty, w którym klucze prywatne są przechowywane offline, np. na specjalnym urządzeniu sprzętowym lub kartce papieru. Używanie zimnego portfela do przechowywania Bitcoinów jest ważne z kilku powodów:
 
@@ -94,10 +94,9 @@ Dla większy kwoty, ważne dla bezpieczynstwa nie utraty środki stanie pojęcia
 > -- <cite>ChatGPT 4</cite>
 
 
-# Czy zuzycie duzo energia przez bitcoin stanowi problem dla srodowiska?
+# Czy dużo energii zużywane przez Bitcoin stanowi problem dla środowiska?
 
-# Bardziej zaawansowany zagadnienie
-
+# Zagadnienie bardziej zaawansowane
 ## Kluczy prywatny
 ## Lightning
 
