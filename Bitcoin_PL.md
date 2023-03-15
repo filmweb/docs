@@ -48,7 +48,7 @@ Aby jeszcze bardziej zgłębić temat, warto zapoznać się z [argumentacja prze
 
 __Jeśli jednak zdecydujesz się na ten sposób, pamiętaj, aby:__
     
-  - **Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny portfel, co pozwoli zminimalizować ryzyka związane z centralizacją.**
+  - **Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny [portfel](#jaki-portfel), co pozwoli zminimalizować ryzyka związane z centralizacją.**
 
   - **Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.**
 
