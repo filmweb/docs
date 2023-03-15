@@ -13,7 +13,7 @@
 >
 >  -- <cite>ChatGPT 4</cite>
 
-Żeby zagłębić temat warto czytać:
+Aby jeszcze bardziej zgłębić temat, warto poczytać:
 - [Bitcoin prosty jak raz, dwa, trzy](https://jesterhodl.com/bitcoin-prosty-jak-raz-dwa-trzy/)
 
 # Dlaczego warto przyjmować płatnośc w Bitcoin?
@@ -44,15 +44,17 @@ Istnieje kilka sposobów zdobywania Bitcoinów:
 >
 > -- <cite>ChatGPT 4</cite>
 
-Żeby zagłębić jeszcze temat warto czytać [argumentacja przeciwko KYC, którą zrozumie każdy](https://archiwumbitcoina.pl/argumentacja-przeciwko-kyc/).
+Aby jeszcze bardziej zgłębić temat, warto zapoznać się z [argumentacja przeciwko KYC, którą zrozumie każdy](https://archiwumbitcoina.pl/argumentacja-przeciwko-kyc/).
 
- __Jezeli mimo wszystko wybierzesz ten sposob, to:__
+__Jeśli jednak zdecydujesz się na ten sposób, pamiętaj, aby:__
 
-- __zwroć uwaga żeby po wymiana srodki je wyplacic jak najszybciej do [swojego portfela](#jaki-portfel), zmniejszasz w tym sposob ryzykow związane z scentralizacja.__
-> __*NOT YOUR KEYS, NOT YOUR COINS*__
-> 
-> <cite>Andreas Antonopoulos</cite>
-- __polecana przez nas scentralizowana giełda na chwila obecna to [kraken.com](https://kraken.com)__
+    -__Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny portfel, co pozwoli zminimalizować ryzyka związane z centralizacją.__
+
+    -__Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.__
+
+    -__Na chwilę obecną polecana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
+    
+
 
 ### Inny (zalecany)
 Natomiast kilka sposobów zdobywania, które nie opierają się na giełdach custodial (czyli takich, które przechowują klucze prywatne użytkowników):
@@ -64,15 +66,15 @@ Natomiast kilka sposobów zdobywania, które nie opierają się na giełdach cus
 - Praca za Bitcoiny: Możesz również zdobyć Bitcoiny, wykonując pracę dla osób lub firm, które płacą w kryptowalutach. Istnieje wiele stron internetowych i platform, które łączą freelancerów z klientami zainteresowanymi płaceniem za usługi w Bitcoinach, np. Crypto.jobs czy Bitwage.
 
 - Odbieranie napiwków lub darowizn: Jeśli prowadzisz bloga, kanał YouTube, czy udzielasz się w inny sposób w internecie, możesz poprosić swoją społeczność o wsparcie w postaci napiwków lub darowizn w Bitcoinach. Wystarczy podać swój adres Bitcoin, aby umożliwić innym przekazywanie środków.
-  (__Planujemy u nas implementować [Nostr zaps](https://thebitcoinmanual.com/articles/nostr-zaps/) który będzie to umozliwiał osóbom z publiczym profilu dostawać takich rodzaj napiwek na konkretny przez nich napisany komentarz do oceny lub recenzje.__)
+  (__Planujemy zaimplementować [Nostr zaps](https://thebitcoinmanual.com/articles/nostr-zaps/) na Filmwebie, co pozwoli osobom z publicznym profilem otrzymywać napiwki za konkretne komentarze, oceny lub recenzje napisane przez nich.__)
 
 
 ## Jaki portfel?
 
 
-Na początku dla nieduży kwoty zupełnie wystarczając oraz najwygodniej jest uzywanie portfele jako aplikacja mobilna.
+Na początku, dla niewielkich kwot, w zupełności wystarczające i najwygodniejsze jest korzystanie z portfela w formie aplikacji mobilnej.
 
-**Zalecany przez nas na chwila obecna portfele dla początkujący bitcoinerzy to [Muun](https://muun.com/), [Breez](https://breez.technology/) oraz [Phoenix](https://phoenix.acinq.co/).**
+**Obecnie zalecany przez nas portfel dla początkujących użytkowników Bitcoin to [Muun](https://muun.com/), [Breez](https://breez.technology/) oraz [Phoenix](https://phoenix.acinq.co/).**
 
 
 ## Jak bezpiecznie trzymać większy kwoty?
