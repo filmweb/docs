@@ -69,14 +69,14 @@ Natomiast kilka sposobów zdobywania, które nie opierają się na giełdach cus
   (__Planujemy zaimplementować [Nostr zaps](https://thebitcoinmanual.com/articles/nostr-zaps/) na Filmwebie, co pozwoli osobom z publicznym profilem otrzymywać napiwki za konkretne komentarze, oceny lub recenzje napisane przez nich.__)
 
 
-## Jaki portfel?
+# Jaki portfel?
 
 Na początku, dla niewielkich kwot, w zupełności wystarczające i najwygodniejsze jest korzystanie z portfela w formie aplikacji mobilnej.
 
 **Obecnie zalecany przez nas portfel dla początkujących użytkowników Bitcoin to [Muun](https://muun.com/), [Breez](https://breez.technology/) oraz [Phoenix](https://phoenix.acinq.co/).**
 
 
-## Jak bezpiecznie przechowywać większe kwoty?
+# Jak bezpiecznie przechowywać większe kwoty?
 
 Dla większych kwot ważne jest, aby zastosować odpowiednie środki bezpieczeństwa, aby uniknąć utraty środków. Kluczowym pojęciem w tym kontekście jest *COLD wallet* - zimny portfel:
 
@@ -92,7 +92,7 @@ Dla większych kwot ważne jest, aby zastosować odpowiednie środki bezpieczeń
 >
 > -- <cite>ChatGPT 4</cite>
 
-__Pamiętaj zawsze żeby sie stosować do zalecany metody backup'owanie swoje kluczy prywatny.__
+**Pamiętaj zawsze żeby sie stosować do zalecany metody backup'owanie swoje kluczy prywatny.**
 
 # Czy dużo energii zużywane przez Bitcoin stanowi problem dla środowiska?
 
