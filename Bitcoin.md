@@ -47,12 +47,12 @@ Istnieje kilka sposobów zdobywania Bitcoinów:
 Aby jeszcze bardziej zgłębić temat, warto zapoznać się z [argumentacja przeciwko KYC, którą zrozumie każdy](https://archiwumbitcoina.pl/argumentacja-przeciwko-kyc/).
 
 __Jeśli jednak zdecydujesz się na ten sposób, pamiętaj, aby:__
+    
+  - **Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny portfel, co pozwoli zminimalizować ryzyka związane z centralizacją.**
 
-    - __Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny portfel, co pozwoli zminimalizować ryzyka związane z centralizacją.__
+  - **Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.**
 
-    - __Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.__
-
-    - __Na chwilę obecną polecana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
+  - __Na chwilę obecną polecana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
     
 
 
@@ -70,7 +70,6 @@ Natomiast kilka sposobów zdobywania, które nie opierają się na giełdach cus
 
 
 ## Jaki portfel?
-
 
 Na początku, dla niewielkich kwot, w zupełności wystarczające i najwygodniejsze jest korzystanie z portfela w formie aplikacji mobilnej.
 
@@ -93,6 +92,7 @@ Dla większych kwot ważne jest, aby zastosować odpowiednie środki bezpieczeń
 >
 > -- <cite>ChatGPT 4</cite>
 
+__Pamiętaj zawsze żeby sie stosować do zalecany metody backup'owanie swoje kluczy prywatny.__
 
 # Czy dużo energii zużywane przez Bitcoin stanowi problem dla środowiska?
 
