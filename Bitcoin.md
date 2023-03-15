@@ -48,11 +48,11 @@ Aby jeszcze bardziej zgłębić temat, warto zapoznać się z [argumentacja prze
 
 __Jeśli jednak zdecydujesz się na ten sposób, pamiętaj, aby:__
 
-    -__Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny portfel, co pozwoli zminimalizować ryzyka związane z centralizacją.__
+    - __Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny portfel, co pozwoli zminimalizować ryzyka związane z centralizacją.__
 
-    -__Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.__
+    - __Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.__
 
-    -__Na chwilę obecną polecana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
+    - __Na chwilę obecną polecana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
     
 
 
