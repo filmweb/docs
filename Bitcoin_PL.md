@@ -46,9 +46,9 @@ Istnieje kilka sposobów zdobywania Bitcoinów:
 
 Aby jeszcze bardziej zgłębić temat, warto zapoznać się z [argumentacja przeciwko KYC, którą zrozumie każdy](https://archiwumbitcoina.pl/argumentacja-przeciwko-kyc/).
 
-__Jeśli jednak zdecydujesz się na ten sposób, pamiętaj, aby:__
+__Jeśli jednak zdecydujesz się na ten sposób, to:__
     
-  - **Zwrócić uwagę na szybkie wypłacenie środków po wymianie na własny [portfel](#jaki-portfel), co pozwoli zminimalizować ryzyka związane z centralizacją.**
+  - **Wypłać jak najszybciej po wymianie środków na własny [portfel](#jaki-portfel), co pozwoli zminimalizować ryzyka związane z centralizacją.**
 
   - **Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.**
 
