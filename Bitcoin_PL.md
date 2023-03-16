@@ -31,7 +31,7 @@ Przyjmowanie płatności w Bitcoin może mieć kilka zalet dla sprzedawców i pr
 Istnieje kilka sposobów zdobywania Bitcoinów:
 
 ### Scentralizowany giełdy (nie zalecany)
- Korzystanie ze scentralizowanych giełd do kupowania Bitcoinów wiąże się z pewnymi ryzykami. Oto najważniejsze z nich:
+ Korzystanie ze scentralizowanych giełd do kupowania bitcoin wiąże się z pewnymi ryzykami. Oto najważniejsze z nich:
  - Bezpieczeństwo: Centralizowane giełdy są atrakcyjnym celem dla hakerów, którzy mogą próbować włamać się do systemu i ukraść środki użytkowników. W przeszłości doszło do kilku spektakularnych włamań na dużych giełdach, co doprowadziło do utraty milionów dolarów w kryptowalutach.
  - Kontrola nad kluczami prywatnymi: Na centralizowanych giełdach to one przechowują klucze prywatne użytkowników, co oznacza, że nie masz pełnej kontroli nad swoimi środkami. W przypadku problemów z giełdą, takich jak jej zamknięcie czy bankructwo, istnieje ryzyko utraty dostępu do swoich Bitcoinów.
  - Cenzura finansowa i zamrożenie konta: Centralizowane giełdy muszą przestrzegać lokalnych i międzynarodowych przepisów, co może prowadzić do blokowania kont lub ograniczania dostępu do środków w przypadku podejrzeń o nielegalne działania. W niektórych przypadkach może to wpłynąć nawet na uczciwych użytkowników.
