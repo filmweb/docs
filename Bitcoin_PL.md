@@ -25,6 +25,7 @@ Przyjmowanie płatności w Bitcoin może mieć kilka zalet dla sprzedawców i pr
  - Ochrona przed chargebackami: Płatności w Bitcoin są nieodwracalne, co oznacza, że klienci nie mogą cofnąć transakcji po jej zatwierdzeniu. Dla sprzedawców oznacza to mniejsze ryzyko oszustw i kosztów związanych z ewentualnymi chargebackami.
  - Prywatność: Transakcje w Bitcoin są pseudonimowe, co oznacza, że nie są bezpośrednio powiązane z tożsamością użytkowników. To może być korzystne dla osób, które cenią sobie prywatność finansową.
 
+https://juraj.bednar.io/en/blog-en/2022/11/04/become-a-bitcoin-%e2%9d%a4%ef%b8%8f-brand-why-accept-bitcoin/
 # Jak zdobyć swoje pierwszy Bitcoin?
 
 
