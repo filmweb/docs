@@ -15,6 +15,7 @@ Aby jeszcze bardziej zgłębić temat, warto poczytać:
 - [Wielce pokojowa rewolucja](https://archiwumbitcoina.pl/wielce-pokojowa-rewolucja-nic-carter/)
 - [Co to jest Bitcoin](https://bitcoin.pl/co-to-jest-bitcoin/)
 - [Manifest Satoshi Nakamoto](https://bitcoin.pl/manifest-satoshi-nakamoto)
+- [Bitcoin basics](https://dncomply.com/bitcoin-basics/)
 
 # Dlaczego warto przyjmować płatnośc w Bitcoin?
 
