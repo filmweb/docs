@@ -95,6 +95,7 @@ Zimny portfel to sposób przechowywania kryptowaluty, w którym klucze prywatne 
 
 czytaj:
 - https://archiwumbitcoina.pl/ostatnie-slowo-na-temat-bitcoinowego-poboru-energii-elektrycznej/
+- https://youtu.be/2T0OUIW89II
 
 # Zagadnienie bardziej zaawansowane
 ## Kluczy prywatny
