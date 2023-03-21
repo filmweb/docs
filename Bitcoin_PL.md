@@ -29,8 +29,16 @@ Przyjmowanie płatności w Bitcoin może mieć kilka zalet dla sprzedawców i pr
 https://juraj.bednar.io/en/blog-en/2022/11/04/become-a-bitcoin-%e2%9d%a4%ef%b8%8f-brand-why-accept-bitcoin/
 # Jak zdobyć swoje pierwszy Bitcoin?
 
-
 Istnieje kilka sposobów zdobywania Bitcoinów:
+### Aplikacje do wymiany:
+Są to aplikacje (na telefon lub strony internetowe), które pozwalają na zakup bitcoinów za określoną prowizję, a następnie natychmiast wypłacają je na Twój portfel po dokonaniu wymiany.
+Rekomendowane:
+
+- [Relai](https://relai.app/)
+- [Pocket Bitcoin](https://pocketbitcoin.com/)
+
+Dla niewielkich kwot nie wymagają rejestracji ani procesu potwierdzenia tożsamości. 
+Obecnie akceptują jedynie waluty EUR lub CHF.
 
 ### Scentralizowany giełdy (nie zalecany)
  Korzystanie ze scentralizowanych giełd do kupowania bitcoin wiąże się z pewnymi ryzykami. Oto najważniejsze z nich:
