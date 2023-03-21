@@ -32,7 +32,7 @@ https://juraj.bednar.io/en/blog-en/2022/11/04/become-a-bitcoin-%e2%9d%a4%ef%b8%8
 Istnieje kilka sposobów zdobywania Bitcoinów:
 ### Aplikacje do wymiany:
 Są to aplikacje (na telefon lub strony internetowe), które pozwalają na zakup bitcoinów za określoną prowizję, a następnie natychmiast wypłacają je na Twój portfel po dokonaniu wymiany.
-Rekomendowane:
+Sugerowane:
 
 - [Relai](https://relai.app/)
 - [Pocket Bitcoin](https://pocketbitcoin.com/)
@@ -45,7 +45,7 @@ Obecnie akceptują jedynie waluty EUR lub CHF.
  - Bezpieczeństwo: Centralizowane giełdy są atrakcyjnym celem dla hakerów, którzy mogą próbować włamać się do systemu i ukraść środki użytkowników. W przeszłości doszło do kilku spektakularnych włamań na dużych giełdach, co doprowadziło do utraty milionów dolarów w kryptowalutach.
  - Kontrola nad kluczami prywatnymi: Na centralizowanych giełdach to one przechowują klucze prywatne użytkowników, co oznacza, że nie masz pełnej kontroli nad swoimi środkami. W przypadku problemów z giełdą, takich jak jej zamknięcie czy bankructwo, istnieje ryzyko utraty dostępu do swoich Bitcoinów.
  - Cenzura finansowa i zamrożenie konta: Centralizowane giełdy muszą przestrzegać lokalnych i międzynarodowych przepisów, co może prowadzić do blokowania kont lub ograniczania dostępu do środków w przypadku podejrzeń o nielegalne działania. W niektórych przypadkach może to wpłynąć nawet na uczciwych użytkowników.
- - Wymogi KYC/AML: Większość centralizowanych giełd wymaga od użytkowników przeprowadzenia procesu KYC (Know Your Customer) i AML (Anti-Money Laundering), co oznacza, że musisz podać swoje dane osobowe, takie jak imię, nazwisko, adres czy dowód tożsamości. Te informacje mogą być udostępniane organom ścigania, co zwiększa ryzyko utraty prywatności.
+ - Wymogi KYC/AML: Większość centralizowanych giełd wymaga od użytkowników przeprowadzenia procesu KYC (Know Your Customer) i AML (Anti-Money Laundering), co oznacza, że musisz podać swoje dane osobowe, takie jak imię, nazwisko, adres czy dowód tożsamości. Te informacje mogą być udostępniane innym podmiotom, co zwiększa ryzyko utraty prywatności.
  - Dostępność usług: W związku z różnicami regulacyjnymi między krajami, nie wszystkie centralizowane giełdy są dostępne dla użytkowników z każdego regionu. Może to ograniczać możliwość korzystania z tych platform w niektórych przypadkach.
  - Zawodność systemów: Centralizowane giełdy mogą doświadczać problemów technicznych, takich jak przeciążenie serwerów czy opóźnienia w obsłudze transakcji, co może utrudniać szybkie i płynne handlowanie kryptowalutami.
 
@@ -57,7 +57,7 @@ __Jeśli jednak zdecydujesz się na ten sposób, to:__
 
   - **Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.**
 
-  - __Na chwilę obecną polecana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
+  - __Na chwilę obecną sugerowana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
     
 
 
