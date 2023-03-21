@@ -55,7 +55,7 @@ __Jeśli jednak zdecydujesz się na ten sposób, to:__
     
   - **Wypłać jak najszybciej po wymianie środków na własny [portfel](#jaki-portfel), co pozwoli zminimalizować ryzyka związane z centralizacją.**
 
-  - **Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety) - Andreas Antonopoulos.**
+  - **Pamiętaj o zasadzie "Not your keys, not your coins" (Jeśli nie posiadasz kluczy, to nie są to Twoje monety).**
 
   - __Na chwilę obecną sugerowana przez nas scentralizowana giełda to [kraken.com](https://kraken.com).__
     
