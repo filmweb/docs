@@ -30,7 +30,7 @@ https://juraj.bednar.io/en/blog-en/2022/11/04/become-a-bitcoin-%e2%9d%a4%ef%b8%8
 # Jak zdobyć swoje pierwszy Bitcoin?
 
 Istnieje kilka sposobów zdobywania Bitcoinów:
-### Aplikacje do wymiany:
+### Kantor internetowy:
 Są to aplikacje (na telefon lub strony internetowe), które pozwalają na zakup bitcoinów za określoną prowizję, a następnie natychmiast wypłacają je na Twój portfel po dokonaniu wymiany.
 Sugerowane:
 
