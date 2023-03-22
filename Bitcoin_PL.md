@@ -78,7 +78,7 @@ Natomiast kilka sposobów zdobywania, które nie opierają się na giełdach cus
 
 Na początku, dla niewielkich kwot, w zupełności wystarczające i najwygodniejsze jest korzystanie z portfela w formie aplikacji mobilnej.
 
-**Obecnie zalecany przez nas portfel dla początkujących użytkowników Bitcoin to [Muun](https://muun.com/), [Breez](https://breez.technology/) oraz [Phoenix](https://phoenix.acinq.co/).**
+**Obecnie sugerowane przez nas portfel dla początkujących użytkowników Bitcoin to [Muun](https://muun.com/), [Breez](https://breez.technology/) oraz [Phoenix](https://phoenix.acinq.co/).**
 
 
 # Jak bezpiecznie przechowywać większe kwoty?
@@ -97,7 +97,10 @@ Zimny portfel to sposób przechowywania kryptowaluty, w którym klucze prywatne 
 
 **Pamiętaj zawsze żeby sie stosować do zalecany metody backup'owanie swoje kluczy prywatny.**
 
-# A czemu nie przyjmujecie kryptowaluta X?
+<!-- 
+
+# A czemu nie przyjmujecie kryptowaluta X? 
+-->
 
 # Czy energia zużywane przez Bitcoin stanowi problem dla środowiska?
 
@@ -105,9 +108,11 @@ czytaj:
 - https://archiwumbitcoina.pl/ostatnie-slowo-na-temat-bitcoinowego-poboru-energii-elektrycznej/
 - https://youtu.be/2T0OUIW89II
 
+<!--
 # Zagadnienie bardziej zaawansowane
 ## Kluczy prywatny
 ## Lightning
+-->
 
 
 
