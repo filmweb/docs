@@ -104,7 +104,7 @@ Zimny portfel to sposób przechowywania kryptowaluty, w którym klucze prywatne 
 
 # Czy energia zużywane przez Bitcoin stanowi problem dla środowiska?
 
-czytaj:
+czytaj/oglądaj:
 - https://archiwumbitcoina.pl/ostatnie-slowo-na-temat-bitcoinowego-poboru-energii-elektrycznej/
 - https://youtu.be/2T0OUIW89II
 
