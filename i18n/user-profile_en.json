@@ -1,1 +1,4 @@
-{ "profile" : "Profile"}
+{
+  "profile" : "Profile",
+  "test" : "Some test"
+}
